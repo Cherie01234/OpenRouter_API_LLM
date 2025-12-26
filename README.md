@@ -1,5 +1,6 @@
 # OpenRouter Chat Client (PyQt5)
-![アプリ画面]<img src="images/app_screen_layout.png" width="800">
+
+<img src="images/app_screen_layout.png" width="800">
 
 ## 概要
 
